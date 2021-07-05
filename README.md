@@ -1,7 +1,7 @@
 ## Hi there 👋
-### I am just one of those programming-students
-- 🔭 I’m currently working on parsing myself into a bachelor’s degree
-- 🌱 I’m currently learning C++, Android, Python and general network security
+### I am just one of those programers
+- 🔭 I finised bachelor's degree in computer science
+- 🌱 I’m currently searching for jobs
 - 📫 How to reach me: On Github
 
 

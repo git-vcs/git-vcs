@@ -1,9 +1,8 @@
 ## Hi there 👋
 ### I am just one of those programers
 - 🔭 I finised bachelor's degree in computer science
-- 🌱 I’m currently searching for jobs.
 - 📫 How to reach me: On Github
-- 🤔 I am currently learning cherrypy, heroku and ASP.net
+- 🌱 I am currently learning "Introduction to Artificial Intelligence"
 
 
 

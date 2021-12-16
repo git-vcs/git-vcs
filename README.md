@@ -1,8 +1,8 @@
 ## Hi there 👋
-### I am just one of those programers
-- 🔭 I finised bachelor's degree in computer science
+### I am just one of those programmers
+- 🔭 I finished bachelor's degree in computer science
 - 📫 How to reach me: On Github
-- 🌱 I am currently learning "Introduction to Artificial Intelligence"
+- 🌱 I am currently learning Kotlin
 
 
 
